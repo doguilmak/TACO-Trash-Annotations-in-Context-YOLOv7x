@@ -1,0 +1,8 @@
+# COCO 2017 dataset http://cocodataset.org
+
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['Aluminium foil', 'Bottle cap', 'Bottle', 'Broken glass', 'Can', 'Carton', 'Cigarette', 'Cup', 'Lid', 'Other litter', 'Other plastic', 'Paper', 'Plastic bag - wrapper', 'Plastic container', 'Pop tab', 'Straw', 'Styrofoam piece', 'Unlabeled litter']
