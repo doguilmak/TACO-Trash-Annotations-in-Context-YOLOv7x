@@ -2,7 +2,7 @@
 
 <br>  
 
-<img src="https://cdn.pixabay.com/photo/2019/06/20/10/08/contamination-4286704_1280.jpg" height=400 width=1000 alt="Contamination"/>
+<img src="https://github.com/doguilmak/TACO-Trash-Annotations-in-Context-YOLOv7/blob/main/asset/contamination-4286704_1280.jpg" height=400 width=1000 alt="Contamination"/>
 
 <small>Picture Source: <a href="https://pixabay.com/users/yogendras31-12827898/">Pixabay - yogendras31</a>  
 
