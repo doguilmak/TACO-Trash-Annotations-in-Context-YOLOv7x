@@ -76,6 +76,7 @@ It's important to note that this is a high-level overview of YOLO, and the algor
 -   `results`: You can see results such as: Precision, Recall, mAP@0.5, mAP@0.5:0.950, PR curve, F1 curve and confusion matrix graphs. In addition hyperparameters  and etc. as `hyp.yaml` and `opt.yaml`.
 - 	`TACO_YOLOv7x.py`: Project codes with python extension.
 -   `README.md`: You are currently reading this file, which provides an overview of the project.
+-   `coco.yaml`: Dataset config file.
 
 <br>
 
